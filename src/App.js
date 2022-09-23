@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Route, Routes, Switch } from 'react-router-dom';
+import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import './App.css';
 import { Hotels } from './hotels/Hotels';
 import Home from './pages/home/home';
